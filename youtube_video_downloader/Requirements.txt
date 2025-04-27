@@ -1,0 +1,2 @@
+modules:- yt_dlp
+files:- urls.txt (for batch download)
