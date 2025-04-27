@@ -1,0 +1,9 @@
+requests
+time
+os
+colorama
+pyfiglet
+pyttsx3
+speech_recognition
+re
+
