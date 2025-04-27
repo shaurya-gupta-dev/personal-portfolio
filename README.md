@@ -18,7 +18,7 @@ Welcome to my **Portfolio Repository** — a living showcase of projects where I
 |:---------------|:---------------|:-------------|:-------|
 | **AI Chatbot**  | AI powered cli based chatbot. | Python, Huggingface | [View](https://github.com/crx-shaurya/personal-portfolio/tree/f0d8fec6bfce9344adcb2b43d8095b756c336083/AI%20Chatbot) |
 | **Youtobe Video Downloader**  | Cli based youtube video downloader. | Python | [View](https://github.com/crx-shaurya/personal-portfolio/tree/f0d8fec6bfce9344adcb2b43d8095b756c336083/youtube_video_downloader) |
-| **Personal Website**  | A one stop solution to showcase yourself. | HTML, CSS, Js | [View](#) |
+| **Personal Website**  | A one stop solution to showcase yourself. | HTML, CSS, Js | [View](https://websitesample94.netlify.app/) |
 
 > _This list will keep growing as I build more projects._
 
