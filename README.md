@@ -1,7 +1,5 @@
 # 🚀 Portfolio Projects
 
-![Portfolio Banner](https://your-image-link.com/banner.png)
-
 Welcome to my **Portfolio Repository** — a living showcase of projects where I apply, refine, and push the limits of my skills.
 
 ---
@@ -18,20 +16,11 @@ Welcome to my **Portfolio Repository** — a living showcase of projects where I
 
 | 🚀 Project Name | 📜 Description | 🛠 Tech Stack | 🔗 Link |
 |:---------------|:---------------|:-------------|:-------|
-| **Project 1**  | Short one-liner about what this project does. | HTML, CSS, JS | [View](#) |
-| **Project 2**  | Short one-liner about what this project does. | Python, Flask | [View](#) |
-| **Project 3**  | Short one-liner about what this project does. | React, Node.js | [View](#) |
+| **AI Chatbot**  | AI powered cli based chatbot. | Python, Huggingface | [View](https://github.com/crx-shaurya/personal-portfolio/tree/f0d8fec6bfce9344adcb2b43d8095b756c336083/AI%20Chatbot) |
+| **Youtobe Video Downloader**  | Cli based youtube video downloader. | Python | [View](https://github.com/crx-shaurya/personal-portfolio/tree/f0d8fec6bfce9344adcb2b43d8095b756c336083/youtube_video_downloader) |
+| **Personal Website**  | A one stop solution to showcase yourself. | HTML, CSS, Js | [View](#) |
 
 > _This list will keep growing as I build more projects._
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" width="450" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" width="450" />
-</p>
 
 ---
 
@@ -49,7 +38,7 @@ Welcome to my **Portfolio Repository** — a living showcase of projects where I
 
 - 🔗 [LinkedIn](https://linkedin.com/in/yourusername)
 - 🐦 [Twitter](https://twitter.com/yourusername)
-- 📫 Email: your@email.com
+- 📫 Email: shauryagupta9411@gmail.com
 
 ---
 
