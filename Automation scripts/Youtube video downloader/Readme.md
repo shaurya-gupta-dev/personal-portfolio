@@ -24,12 +24,14 @@ An advanced YouTube video downloader built with `yt-dlp`, supporting:
 
 ## 🚀 How to Use
 1- Run the script:
-- python youtube_downloader.py
+  ```bash
+  python youtube_downloader.py
+  ```
 
 2- Choose Mode:
 - Enter 1 to download a single YouTube video.
 - Enter 2 to download from a list inside urls.txt.
-- 
+
 3- If Bulk Mode:
 - Create a urls.txt file in the same directory.
 - Each line should contain one YouTube URL.
