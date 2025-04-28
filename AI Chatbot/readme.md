@@ -36,9 +36,13 @@ get code from sourcecode.py and make a python file consisting that code.
 
 2- Installthe dependencies:
 
+```bash
 pip install -r requirements.txt
+```
+
 (Create a requirements.txt with the following lines if not already created:
 
+```bash
 nginx
 Copy
 Edit
@@ -47,6 +51,7 @@ pyttsx3
 SpeechRecognition
 colorama
 pyfiglet
+```
 
 3- Set your Hugging Face API Key inside the script:
 
