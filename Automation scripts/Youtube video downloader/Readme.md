@@ -40,4 +40,4 @@ An advanced YouTube video downloader built with `yt-dlp`, supporting:
 
 Here’s a live snapshot of the downloader in action:
 
-[demo.png]
+![YouTube Downloader Demo](demo.png)
