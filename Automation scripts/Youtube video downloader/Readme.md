@@ -35,3 +35,9 @@ An advanced YouTube video downloader built with `yt-dlp`, supporting:
 3- If Bulk Mode:
 - Create a urls.txt file in the same directory.
 - Each line should contain one YouTube URL.
+
+## 🖥️ Demo
+
+Here’s a live snapshot of the downloader in action:
+
+![YouTube Downloader Demo](demo.png)
