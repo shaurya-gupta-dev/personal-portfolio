@@ -20,13 +20,13 @@ A Python-based file organization script designed to automatically categorize fil
 - `os` and `shutil` libraries (both are built-in Python libraries, no installation required)
 
 ## Usage
-1- Run the script using the command line:
+1- Run the script using the command line:(get code from sourcecode.py)
   ```bash
   python file_organizer.py
 ```
 
 2- Enter the path of the folder you want to organize when prompted.
-- ex- 
+
 3- The script will categorize the files into appropriate subfolders within the specified folder.
 
 ## How It Works
@@ -42,10 +42,10 @@ A Python-based file organization script designed to automatically categorize fil
 
 - Each file’s movement is logged to the terminal with a message indicating where it has been moved.
 
-##Customization
+## Customization
 - You can easily modify the file_types dictionary to add more categories or file extensions according to your needs. For example, you can add .mp3 for audio files, .xlsx for Excel files, etc.
 
-  ## Example
+## Example
 
 ```bash
   🗂️ File Organizer Bot
