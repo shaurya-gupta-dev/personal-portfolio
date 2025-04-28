@@ -119,8 +119,8 @@ a = input("press enter to start or exit to exit the programm: ")
 
 if a == "":
     chat()
-elif a.lower == "exit":
-    print("programm exited")
+elif a == "exit":
+    print("programm exited\nhave a nice day :)")
     exit()
 else:
     print("invalid input")
