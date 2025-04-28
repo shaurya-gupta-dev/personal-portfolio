@@ -34,7 +34,7 @@ Built with ❤️ by Shaurya.
 get code from sourcecode.py and make a python file consisting that code.
 ```
 
-2- Installthe dependencies:
+2- Install the dependencies:
 
 ```bash
 pip install -r requirements.txt
@@ -57,5 +57,5 @@ pyfiglet
 
 headers = {"Authorization": "Bearer YOUR_HF_API_KEY"}
 ```bash
-you don't need key now because the code already has key.
+you do not need key now because the code already has key.
 ```
