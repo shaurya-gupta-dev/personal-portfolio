@@ -59,3 +59,54 @@ headers = {"Authorization": "Bearer YOUR_HF_API_KEY"}
 ```bash
 you do not need key now because the code already has key.
 ```
+
+## 🛠️ Usage
+1- Run the script:
+
+```bash
+python filename.py
+```
+
+2- You will see a banner:
+
+```bash
+ ____ _     ___   ____ ____ _____ 
+/ ___| |   / _ \ / ___|  _ \_   _|
+| |   | |  | | | | |  _| |_) || |  
+| |___| |__| |_| | |_| |  __/ | |  
+\____|_____\___/ \____|_|    |_|  
+Press Enter to start chatting, or type exit to close the program.
+```
+
+- Speak when the bot says "Listening..."
+
+- Wait while it says "Thinking..."
+
+- The bot will reply back by speaking and printing the response.
+
+## 💡 How It Works
+- Listens to your voice input using SpeechRecognition.
+
+- Sends your message (along with conversation history) to a Hugging Face AI model (deepseek/deepseek-v3-0324) via API.
+
+- Receives the AI’s response.
+
+- Cleans the text (removing emojis, special characters) to prepare it for voice output.
+
+- Speaks the reply using pyttsx3.
+
+- Saves your conversation history locally for continuous context.
+
+## 📂 Files
+- chatbot.py — Main script file.
+
+- memory.txt — Stores the last 10 messages for memory persistence.
+
+- logs.txt — Saves every full conversation session.
+
+## 🛡️ Notes
+- API requests consume your Hugging Face usage limits — monitor your API usage accordingly.
+
+- Microphone access is required.
+
+- Internet connection is necessary for making API calls to Hugging Face.
