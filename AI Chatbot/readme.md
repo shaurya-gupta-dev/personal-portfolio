@@ -25,4 +25,32 @@ Built with ❤️ by Shaurya.
 - Install the following Python libraries:
   ```bash
   pip install requests pyttsx3 SpeechRecognition colorama pyfiglet
+  ```
+
+## ⚙️ Installation
+1- Clone the repository:
+
+```bash
+get code from sourcecode.py and make a python file consisting that code.
+```
+
+2- Installthe dependencies:
+
+pip install -r requirements.txt
+(Create a requirements.txt with the following lines if not already created:
+
+nginx
+Copy
+Edit
+requests
+pyttsx3
+SpeechRecognition
+colorama
+pyfiglet
+
+3- Set your Hugging Face API Key inside the script:
+
+headers = {"Authorization": "Bearer YOUR_HF_API_KEY"}
+```bash
+you don't need key now because the code already has key.
 ```
