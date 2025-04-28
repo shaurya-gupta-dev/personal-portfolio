@@ -28,11 +28,7 @@ Built with ❤️ by Shaurya.
   ```
 
 ## ⚙️ Installation
-1- Clone the repository:
-
-```bash
-get code from sourcecode.py and make a python file consisting that code.
-```
+1- get code from sourcecode.py and make a python file consisting that code.
 
 2- Install the dependencies:
 
