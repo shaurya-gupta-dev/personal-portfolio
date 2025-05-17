@@ -2,7 +2,7 @@
 
 A command-line based, AI-powered voice chatbot that listens to your voice input, generates intelligent responses using a Hugging Face hosted model, speaks the response back to you, and maintains memory across conversations.
 
-Built with ❤️ by Shaurya.
+Built with ❤️ by Shaurya
 
 ---
 
